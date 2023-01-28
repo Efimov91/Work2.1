@@ -6,8 +6,8 @@ public class Main {
 
         int mile = 1;
 
-        int BonusMile = ticket / rubles * mile;
+        int bonusMile = ticket / rubles * mile;
 
-        System.out.println("Бонус мили:" + BonusMile);
+        System.out.println("Бонус мили:" + bonusMile);
     }
 }
